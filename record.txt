@@ -1,0 +1,1000 @@
+ 1149  vim delspace.c
+ 1150  gcc -o delspace delspace.c -g
+ 1151  ./delspace 
+ 1152  gdb delspace -q
+ 1153  exit
+ 1154  cd 桌面/
+ 1155  cd mproxy-master/
+ 1156  gcc -o mproxy mproxy.c
+ 1157  ./mproxy -l 8081 -D -d
+ 1158  ./mproxy -l 8080 -h xxx.xxx.xxx.xxx:8081 -E
+ 1159  cd ../../下载/
+ 1160  gzip command-line-chess-master.zip -d
+ 1161  ll com*
+ 1162  whereis ifconfig
+ 1163  whereis stdio.h
+ 1164  whereis eclipse
+ 1165  whereis -m passwd
+ 1166  locate ecl*
+ 1167  locate passwd
+ 1168  locate command-*
+ 1169  locate command*
+ 1170  updatedb
+ 1171  su
+ 1172  exit
+ 1173  cd linux-c/
+ 1174  vim delspace.c 
+ 1175  gdb -q delspace
+ 1176  gcc -o delspace delspace.c -g
+ 1177  gdb delspace -q
+ 1178  vim delspace.c 
+ 1179  cd ../cpp/
+ 1180  vim template.cpp
+ 1181  g++ -o template template.cpp -g
+ 1182  ./template 
+ 1183  vim template.cpp 
+ 1184  g++ -o template template.cpp -g
+ 1185  vim template.cpp 
+ 1186  g++ -o template template.cpp -g
+ 1187  ./template 
+ 1188  vim templateClass.cpp
+ 1189  exit
+ 1190  cd /usr/local/eclipse/
+ 1191  ./eclipse 
+ 1192  su root 
+ 1193  cd linux-c/
+ 1194  vim delspace.c 
+ 1195  su
+ 1196  df
+ 1197  cd linux-c/
+ 1198  ll
+ 1199  vim test.c 
+ 1200  gcc -o test test.c -g
+ 1201  gdb test -q
+ 1202  vim test.c
+ 1203  cd ../下载
+ 1204  cd eclipse/
+ 1205  ./eclipse 
+ 1206  su root 
+ 1207  cd linux-c/
+ 1208  vim kill.c 
+ 1209  cd linux-c/
+ 1210  cd ../cpp/
+ 1211  ll
+ 1212  vim hanoi.cpp
+ 1213  g++ -o hanoi hanoi.cpp -g
+ 1214  vim hanoi.cpp
+ 1215  g++ -o hanoi hanoi.cpp -g
+ 1216  ./hanoi 
+ 1217  vim mergeSort.cpp
+ 1218  g++ mergeSort.cpp -o mergeSort -g
+ 1219  vim mergeSort.cpp
+ 1220  g++ mergeSort.cpp -o mergeSort -g
+ 1221  ./mergeSort 
+ 1222  vim mergeSort.cpp
+ 1223  g++ mergeSort.cpp -o mergeSort -g
+ 1224  ./mergeSort 
+ 1225  ll
+ 1226  vim iostream_string.cpp 
+ 1227  exit
+ 1228  ping www.baidu.com
+ 1229  cd linux-c/
+ 1230  vim fread.c
+ 1231  vim frite.txt
+ 1232  gcc -o fread fread.c -g
+ 1233  ./fread 
+ 1234  vim frite.txt
+ 1235  ./fread 
+ 1236  vim fgets.c
+ 1237  gcc -o fgets fgets.c -g
+ 1238  ./fgets 
+ 1239  vim fileno.c
+ 1240  vim frite.txt
+ 1241  vim fread.c 
+ 1242  gcc -o fileno fileno.c -g
+ 1243  ./fileno 
+ 1244  vim fwrite.c
+ 1245  gcc -o fwrite fwrite.c -g
+ 1246  vim fwrite.c
+ 1247  gcc -o fwrite fwrite.c -g
+ 1248  ./fwrite 
+ 1249  vim fwrite.txt 
+ 1250  man lseek
+ 1251  man mkdir
+ 1252  man 2 mkdir
+ 1253  man 3 mkdir
+ 1254  man 3 opendir
+ 1255  ls -a
+ 1256  info ll
+ 1257  ll
+ 1258  cal
+ 1259  bc
+ 1260  man 7 man
+ 1261  man 7 man | grep 1
+ 1262  man NULL
+ 1263  man date
+ 1264  man -f open
+ 1265  man -f man
+ 1266  man -k man
+ 1267  who am i
+ 1268  where am i
+ 1269  what is man
+ 1270  whatis opendir
+ 1271  info info
+ 1272  sync
+ 1273  who
+ 1274  netstat -a
+ 1275  ps -aux
+ 1276  $runlevel
+ 1277  echo $RUNLEVEL
+ 1278  cat /proc/meminfo 
+ 1279  ls /dev/hpet -l
+ 1280  cd linux-c/
+ 1281  vim my_chmod.c
+ 1282  gcc -o my_chmod my_chmod.c 
+ 1283  vim my_chmod.c
+ 1284  gcc -o my_chmod my_chmod.c 
+ 1285  vim my_chmod.c
+ 1286  gcc -o my_chmod my_chmod.c 
+ 1287  ./my_chmod 
+ 1288  ll
+ 1289  ll test.c
+ 1290  ./my_chmod 0 test.c 
+ 1291  ll test.c
+ 1292  ./my_chmod 745 test.c 
+ 1293  ll test.c
+ 1294  ./my_chmod 778 test.c 
+ 1295  man 2 chmod
+ 1296  man open
+ 1297  man 2 open
+ 1298  vim my_create.c
+ 1299  man 2 -k chmod
+ 1300  man 2 stat
+ 1301  gcc -o my_create my_create.c 
+ 1302  vim my_create.c
+ 1303  gcc -o my_create my_create.c 
+ 1304  vim my_create.c
+ 1305  gcc -o my_create my_create.c 
+ 1306  man 2 chmod
+ 1307  man 2 open
+ 1308  vim my_create.c
+ 1309  gcc -o my_create my_create.c 
+ 1310  vim my_chmod.c 
+ 1311  vim my_create.c
+ 1312  gcc -o my_create my_create.c 
+ 1313  vim my_create.c
+ 1314  gcc -o my_create my_create.c 
+ 1315  ./my_create 
+ 1316  wahtis open
+ 1317  whatis open
+ 1318  cd linux-c/
+ 1319  ll
+ 1320  sort -r *.c
+ 1321  sudo sort -r *.c
+ 1322  ll
+ 1323  sudo sort -r test.c 
+ 1324  gcc --help
+ 1325  vim user.c
+ 1326  gcc -o user user.c 
+ 1327  ./user 
+ 1328  man uname
+ 1329  uname -p
+ 1330  uname -v
+ 1331  uname --help
+ 1332  uname -m
+ 1333  uname -p
+ 1334  uname -a
+ 1335  uname -o
+ 1336  uname -i
+ 1337  uname -rv
+ 1338  uname -r
+ 1339  man 2 pow
+ 1340  man printf
+ 1341  print 34
+ 1342  printf("hexindada\n");
+ 1343  man 2 printf
+ 1344  man 2 chmod
+ 1345  man 2 strlen
+ 1346  uname -n
+ 1347  mysql -uroot -p
+ 1348  exit
+ 1349  cd linux-c/
+ 1350  vim gtk1.c
+ 1351  gcc gtk1.c -o gtk1 `pkg-config --cflags --libs gtk+-2.0`
+ 1352  sudo reboot
+ 1353  python
+ 1354  cd python_dir/
+ 1355  ll
+ 1356  vim world.py 
+ 1357  vim utf-8.py
+ 1358  ./hello.py 
+ 1359  chmod +x utf-8.py 
+ 1360  ./utf-8.py 
+ 1361  vim utf-8.py 
+ 1362  ./utf-8.py 
+ 1363  vim utf-8.py 
+ 1364  ./utf-8.py 
+ 1365  python
+ 1366  vim returnmuti.py
+ 1367  chmod +x returnmuti.py 
+ 1368  ./returnmuti.py 
+ 1369  vim returnmuti.py
+ 1370  ./returnmuti.py 
+ 1371  python
+ 1372  vim power.py
+ 1373  chmod +x power.py 
+ 1374  ./power.py 
+ 1375  defaultparameter.py
+ 1376  vim defaultparameter.py
+ 1377  chmod +wx defaultparameter.py 
+ 1378  ll
+ 1379  ./defaultparameter.py 
+ 1380  vim defaultparameter.py
+ 1381  ./defaultparameter.py 
+ 1382  vim defaultparameter.py
+ 1383  ./defaultparameter.py 
+ 1384  vim defaultparameter.py
+ 1385  ./defaultparameter.py 
+ 1386  vim defaultparameter.py 
+ 1387  ./defaultparameter.py 
+ 1388  vim defaultparameter.py 
+ 1389  ./defaultparameter.py 
+ 1390  vim defaultparameter.py 
+ 1391  ./defaultparameter.py 
+ 1392  vim variable.py
+ 1393  chmod +x variable.py 
+ 1394  ./variable.py 
+ 1395  vim variable.py
+ 1396  ./variable.py 
+ 1397  vim variable.py
+ 1398  ./variable.py 
+ 1399  vim keywordpa.py
+ 1400  chmod +x keywordpa.py 
+ 1401  ./keywordpa.py 
+ 1402  vim keywordpa.py
+ 1403  ./keywordpa.py 
+ 1404  vim keywordpa.py
+ 1405  ./keywordpa.py 
+ 1406  vim keywordpa.py
+ 1407  ./keywordpa.py 
+ 1408  vim keywordpa.py
+ 1409  ./keywordpa.py 
+ 1410  vim digui.py
+ 1411  chmod +x digui.py 
+ 1412  ./digui.py 
+ 1413  chmod +x digui.py 
+ 1414  ./digui.py 
+ 1415  vim digui.py
+ 1416  ./digui.py 
+ 1417  vim digui.py
+ 1418  ./digui.py 
+ 1419  vim digui.py
+ 1420  ./digui.py 
+ 1421  vim weidigui.py
+ 1422  chmod +x weidigui.py 
+ 1423  ./weidigui.py 
+ 1424  vim qiepian.py
+ 1425  chmod +x qiepian.py 
+ 1426  ./qiepian.py 
+ 1427  vim qiepian.py
+ 1428  ./qiepian.py 
+ 1429  vim qiepian.py
+ 1430  ./qiepian.py 
+ 1431  vim diedai.py
+ 1432  chmod +x diedai.py 
+ 1433  ./diedai.py 
+ 1434  vim diedai.py
+ 1435  ./diedai.py 
+ 1436  vim diedai.py
+ 1437  ./diedai.py 
+ 1438  vim diedai.py
+ 1439  ./diedai.py 
+ 1440  vim diedai.py
+ 1441  ./diedai.py 
+ 1442  vim diedai.py
+ 1443  ./diedai.py 
+ 1444  vim diedai.py
+ 1445  ./diedai.py 
+ 1446  vim diedai.py
+ 1447  ./diedai.py 
+ 1448  vim diedai.py
+ 1449  ./diedai.py 
+ 1450  vim diedai.py
+ 1451  ./diedai.py 
+ 1452  vim diedai.py
+ 1453  ./diedai.py 
+ 1454  vim diedai.py
+ 1455  ./diedai.py 
+ 1456  vim ListComprehensions.py
+ 1457  chmod +x ListComprehensions.py 
+ 1458  ./ListComprehensions.py 
+ 1459  vim ListComprehensions.py
+ 1460  ./ListComprehensions.py 
+ 1461  cd ~
+ 1462  cd 下载/
+ 1463  cd eclipse/
+ 1464  ./eclipse 
+ 1465  cd ~
+ 1466  cd python_dir/
+ 1467  ll
+ 1468  vim world.py 
+ 1469  exit
+ 1470  cd python_dir/
+ 1471  vim generator.py
+ 1472  chmod +x generator.py 
+ 1473  ./generator.py 
+ 1474  vim generator.py
+ 1475  ./generator.py 
+ 1476  vim fibonacci.py
+ 1477  chmod +x fibonacci.py 
+ 1478  ./fibonacci.py 
+ 1479  vim fibonacci.py
+ 1480  ./fibonacci.py 
+ 1481  vim fibonacci.py
+ 1482  ./fibonacci.py 
+ 1483  python
+ 1484  vim map.py
+ 1485  chmod 777 map.py 
+ 1486  ll
+ 1487  chmod 775 map.py 
+ 1488  ll
+ 1489  ./map.py 
+ 1490  vim reduce.py
+ 1491  chmod +x reduce.py 
+ 1492  ./reduce.py 
+ 1493  vim reduce.py
+ 1494  ./reduce.py 
+ 1495  vim reduce.py
+ 1496  ./reduce.py 
+ 1497  vim reduce.py
+ 1498  ./reduce.py 
+ 1499  vim reduce.py
+ 1500  ./reduce.py 
+ 1501  vim reduce.py
+ 1502  ./reduce.py 
+ 1503  vim fn.py
+ 1504  chmod +x fn.py 
+ 1505  ./fn.py 
+ 1506  vim fn.py
+ 1507  ./fn.py 
+ 1508  vim fn.py
+ 1509  ./fn.py 
+ 1510  vim fn.py
+ 1511  ./fn.py 
+ 1512  vim fn.py
+ 1513  ./fn.py 
+ 1514  vim fn.py
+ 1515  ./fn.py 
+ 1516  vim str2int.py
+ 1517  chmod +x str2int.py 
+ 1518  ./str2int.py 
+ 1519  python
+ 1520  vim lamba_.py
+ 1521  chmod +x lamba_.py 
+ 1522  ./lamba_.py 
+ 1523  vim sorted.py
+ 1524  chmod +x sorted.py 
+ 1525  ./sorted.py 
+ 1526  vim sorted.py
+ 1527  ./sorted.py 
+ 1528  vim sorted.py
+ 1529  ./sorted.py 
+ 1530  vim returnfunc.py
+ 1531  chmod +x returnfunc.py 
+ 1532  ./returnfunc.py 
+ 1533  vim returnfunc.py
+ 1534  ./returnfunc.py 
+ 1535  vim returnfunc.py
+ 1536  ./returnfunc.py 
+ 1537  cd linux-c/
+ 1538  ll
+ 1539  vim wangdao_4_1.c
+ 1540  sudo apt-get-install ctags
+ 1541  sudo apt-get install ctags
+ 1542  ctags -R
+ 1543  sudo ctags -R
+ 1544  ll
+ 1545  vim strcpy.c 
+ 1546  vim ~/.vimrc 
+ 1547  vim wangdao_4_1.c
+ 1548  cd
+ 1549  cd linux-c/
+ 1550  cd ../python_dir/
+ 1551  vim decorater.py
+ 1552  chmod +x decorater.py 
+ 1553  ./decorater.py 
+ 1554  vim decorater.py
+ 1555  ./decorater.py 
+ 1556  vim decorater.py
+ 1557  ./decorater.py 
+ 1558  vim decorater.py
+ 1559  ./decorater.py 
+ 1560  vim decorater.py
+ 1561  ./decorater.py 
+ 1562  python
+ 1563  vim decorater.py
+ 1564  ./decorater.py 
+ 1565  vim decorater2.py
+ 1566  chmod +x decorater2.py 
+ 1567  ./decorater2
+ 1568  ./decorater2.py 
+ 1569  vim decorater2.py
+ 1570  ./decorater2.py 
+ 1571  vim decorater2.py
+ 1572  ./decorater2.py 
+ 1573  vim decorater2.py
+ 1574  ./decorater2.py 
+ 1575  vim pianhs.py
+ 1576  chmod +x pianhs.py 
+ 1577  ./pianhs.py 
+ 1578  chmod +x pianhs.py 
+ 1579  ./pianhs.py 
+ 1580  vim pianhs.py
+ 1581  ./pianhs.py 
+ 1582  exit
+ 1583  ll
+ 1584  whereis vim
+ 1585  whereis test.c
+ 1586  cp 下载/autoproto.vim ./
+ 1587  ll
+ 1588  ctags -R -f ~/.vim/systags --c-kinds=+p /usr/include /usr/local/include
+ 1589  ctags -R -f ~/.vim/systags --c-kinds=+p --fields=+S /usr/include /usr/local/include
+ 1590  vim -version
+ 1591  :version
+ 1592  vim:version
+ 1593  vim aa
+ 1594  ll a*
+ 1595  cd linux-c/
+ 1596  ctags -R
+ 1597  vll
+ 1598  ll
+ 1599  vim -t wangdao_4_1.c
+ 1600  vim wangdao_4_1.c
+ 1601  gvim wangdao_4_1.c
+ 1602  vimtutor
+ 1603  eit
+ 1604  exit
+ 1605  poweroff
+ 1606  root poweroff
+ 1607  sudo poweroff
+ 1608  cd linux-c/
+ 1609  ll ta*
+ 1610  ctags -R -f ~/.vim/systags --c-kinds=+p --fields=+S /usr/include /usr/local/include
+ 1611  cd /etc/vim/
+ 1612  ll
+ 1613  vim vimrc
+ 1614  gedit vimrc
+ 1615  sudo gedit vimrc
+ 1616  cd ~
+ 1617  ll
+ 1618  sudo gedit .vimrc 
+ 1619  ll
+ 1620  sudo gedit .vimrc~ 
+ 1621  cd linux-c/
+ 1622  cd ../python_dir/
+ 1623  vim module.py
+ 1624  chmod +x module.py 
+ 1625  ./module.py 
+ 1626  vim module.py
+ 1627  ./module.py 
+ 1628  ./module.py  hexin
+ 1629  ./module.py  hexin he
+ 1630  python
+ 1631  cd ../linux-c/
+ 1632  ll
+ 1633  vim strcpy.c 
+ 1634  vim stdin.c 
+ 1635  ctags -R*
+ 1636  ctags -R *
+ 1637  sudo ctags -R *
+ 1638  ll
+ 1639  sudo gedit /etc/vim/vimrc
+ 1640  vim test2.c
+ 1641  rm test2.c 
+ 1642  ctags -R -f ~/.vim/systags --c-kinds=+p --fields=+S /usr/include /usr/local/include
+ 1643  ctags -R -f --c-kinds=+p --fields=+S /usr/include /usr/local/include
+ 1644  cd ../python_dir/
+ 1645  ll 12*
+ 1646  vim imagecl.py
+ 1647  chmod +x imagecl.py 
+ 1648  ./imagecl.py 
+ 1649  vim object.py
+ 1650  chmod +x object.py 
+ 1651  ./object.py 
+ 1652  vim object.py
+ 1653  ./object.py 
+ 1654  vim object.py
+ 1655  ./object.py 
+ 1656  python
+ 1657  vim extend.py
+ 1658  chmod +x extend.py 
+ 1659  ./extend.py 
+ 1660  python
+ 1661  type ls
+ 1662  type pwd
+ 1663  type rm
+ 1664  type ll
+ 1665  type find
+ 1666  type(None)
+ 1667  python
+ 1668  vim gui1.py
+ 1669  chmod gui1.py +x
+ 1670  chmod +x gui1.py
+ 1671  ./gui1.py 
+ 1672  vim gui1.py
+ 1673  ./gui1.py 
+ 1674  vim gui1.py
+ 1675  gedit gui1.py 
+ 1676  ./gui1.py 
+ 1677  sudo apt-get install python-tk
+ 1678  ./gui1.py 
+ 1679  gedit  gui2.py
+ 1680  chmod +x gui2.py 
+ 1681  ./gui2.py 
+ 1682  gedit  gui2.py
+ 1683  ./gui2.py 
+ 1684  exit
+ 1685  ll
+ 1686  cls
+ 1687  clear
+ 1688  python
+ 1689  cd python_dir/
+ 1690  ll
+ 1691  grep worl* 
+ 1692  python
+ 1693  vim exercise1.py
+ 1694  chmod +x exercise1.py 
+ 1695  ./exercise1.py 
+ 1696  python 
+ 1697  vim exercise1.py
+ 1698  ./exercise1.py 
+ 1699  vim exercise1.py
+ 1700  ./exercise1.py 
+ 1701  vim exercise1.py
+ 1702  ./exercise1.py 
+ 1703  vim exercise1.py
+ 1704  ./exercise1.py 
+ 1705  vim exercise1.py
+ 1706  ./exercise1.py 
+ 1707  vim exercise1.py
+ 1708  ./exercise1.py 
+ 1709  python
+ 1710  vim exercise2.py
+ 1711  chmod +x exercise2.py 
+ 1712  ./exercise2.py 
+ 1713  vim exercise2.py
+ 1714  ./exercise2.py 
+ 1715  vim exercise2.py
+ 1716  ./exercise2.py 
+ 1717  vim exercise2.py
+ 1718  ./exercise2.py 
+ 1719  vim exercise2.py
+ 1720  ./exercise2.py 
+ 1721  vim exercise2.py
+ 1722  ./exercise2.py 
+ 1723  python
+ 1724  vim property.py
+ 1725  chmod +x property.py 
+ 1726  ./property.py 
+ 1727  vim property.py
+ 1728  ./property.py 
+ 1729  vim property.py
+ 1730  ./property.py 
+ 1731  vim property.py
+ 1732  ./property.py 
+ 1733  vim property.py
+ 1734  ./property.py 
+ 1735  gedit fork.py
+ 1736  chmod +ux fork.py
+ 1737  chmod +x fork.py
+ 1738  ./fork.py 
+ 1739  vim fork.py
+ 1740  ./fork.py 
+ 1741  gedit fork.py
+ 1742  ./fork.py 
+ 1743  vim pool.py
+ 1744  chmod +x pool.py `
+ 1745  chmod +x pool.py 
+ 1746  ./pool.py 
+ 1747  grep 'main' pool.py 
+ 1748  grep python /home/hexin/python_dir/*
+ 1749  grep 'root' /etc/group
+ 1750  at
+ 1751  man crontab 
+ 1752  python
+ 1753  cd python_dir/
+ 1754  vim dingzhi.py
+ 1755  chmod +x dingzhi.py 
+ 1756  ./dingzhi.py 
+ 1757  vim dingzhi.py
+ 1758  ./dingzhi.py 
+ 1759  vim dingzhi.py
+ 1760  ./dingzhi.py 
+ 1761  vim dingzhi.py
+ 1762  ./dingzhi.py 
+ 1763  vim call.py
+ 1764  chmod +x *.py
+ 1765  ./call.py 
+ 1766  vim call.py
+ 1767  ./call.py 
+ 1768  vim call.py
+ 1769  ./call.py 
+ 1770  vim call.py
+ 1771  ./call.py 
+ 1772  vim call.py
+ 1773  ./call.py 
+ 1774  python
+ 1775  vim hello.py 
+ 1776  python
+ 1777  vim hello.py 
+ 1778  python
+ 1779  vim hello.py 
+ 1780  chmod +x *.py
+ 1781  ./hello.py 
+ 1782  vim hello.py 
+ 1783  ./hello.py 
+ 1784  vim err.py
+ 1785  chmod +x *.py
+ 1786  ./err.py 
+ 1787  vim err.py
+ 1788  ./err.py 
+ 1789  vim err.py
+ 1790  ./err.py 
+ 1791  vim err.py
+ 1792  ./err.py -0
+ 1793  -0 ./err.py
+ 1794  python err.py 
+ 1795  python -m pdb err.py 
+ 1796  vim err.py
+ 1797  python err.py 
+ 1798  vim err.py
+ 1799  python err.py 
+ 1800  vim err.py
+ 1801  python err.py 
+ 1802  vim err.py
+ 1803  python err.py 
+ 1804  vim mydict.py
+ 1805  vim mydict_test.py
+ 1806  python mydict_test.py 
+ 1807  vim mydict_test.py
+ 1808  python mydict_test.py 
+ 1809  python -m unittest mydict_test.py 
+ 1810  python -m unittest mydict_test
+ 1811  vim mydict_test.py
+ 1812  python -m unittest mydict_test
+ 1813  python mydict_test.py 
+ 1814  exit
+ 1815  pytho
+ 1816  python
+ 1817  pdb
+ 1818  pdb err.py 
+ 1819  cd python_dir/
+ 1820  vim read.py
+ 1821  chmod +x *.py
+ 1822  ./read.py 
+ 1823  vim read.py
+ 1824  ./read.py 
+ 1825  vim read.py
+ 1826  ./read.py 
+ 1827  vim read.py
+ 1828  ./read.py 
+ 1829  vim read.py
+ 1830  ./read.py 
+ 1831  vim read.py
+ 1832  ./read.py 
+ 1833  vim read.py
+ 1834  vim write.py
+ 1835  chmod +u call.py 
+ 1836  chmod +x write.py 
+ 1837  ./write.py 
+ 1838  vim test.txt 
+ 1839  ./write.py 
+ 1840  vim test.txt 
+ 1841  rm test.txt 
+ 1842  ./write.py 
+ 1843  vim test.txt 
+ 1844  python
+ 1845  cd testdir/
+ 1846  ll
+ 1847  cd
+ 1848  cd python_dir/
+ 1849  python
+ 1850  vim searchfile.py
+ 1851  chmod +x searchfile.py 
+ 1852  python searchfile.py /home/hexin/ test
+ 1853  vim searchfile.py
+ 1854  python searchfile.py /home/hexin/ test
+ 1855  vim searchfile.py
+ 1856  python searchfile.py /home/hexin/ test
+ 1857  vim searchfile.py
+ 1858  python searchfile.py /home/hexin/ test
+ 1859  vim searchfile.py
+ 1860  python searchfile.py /home/hexin/ test
+ 1861  python -m pdb searchfile.py /home/hexin/ test 
+ 1862  vim searchfile.py
+ 1863  python searchfile.py /home/hexin/ test
+ 1864  cd /usr/local/eclipse/
+ 1865  ll
+ 1866  sudo ./eclipse 
+ 1867  cd ~/python_dir/
+ 1868  vim pickle.py
+ 1869  chmod +x pickle.py 
+ 1870  ./pickle.py 
+ 1871  vim pickle.py
+ 1872  ./pickle.py 
+ 1873  vim pickle.py
+ 1874  ./pickle.py 
+ 1875  vim dump.txt 
+ 1876  vim pickle.py
+ 1877  vim dpickle.py 
+ 1878  chmod +x dpickle.py 
+ 1879  ./dpickle.py 
+ 1880  vim dpickle.py 
+ 1881  python dpickle.py 
+ 1882  vim dpickle.py 
+ 1883  python dpickle.py 
+ 1884  vim dpickle.py 
+ 1885  python dpickle.py 
+ 1886  vim dpickle.py 
+ 1887  python dpickle.py 
+ 1888  vim dpickle.py 
+ 1889  python dpickle.py 
+ 1890  vim dpickle.py 
+ 1891  python dpickle.py 
+ 1892  vim dpickle.py 
+ 1893  python dpickle.py 
+ 1894  vim jsoncl.py
+ 1895  chmod +x *.py 
+ 1896  ./jsoncl.py 
+ 1897  vim jsoncl.py
+ 1898  ./jsoncl.py 
+ 1899  vim jsoncl.py
+ 1900  ./jsoncl.py 
+ 1901  vim jsoncl.py
+ 1902  ./jsoncl.py 
+ 1903  vim jsoncl.py
+ 1904  ./jsoncl.py 
+ 1905  vim jsoncl.py
+ 1906  ./jsoncl.py 
+ 1907  vim jsoncl.py
+ 1908  vim multiprocessing.py
+ 1909  chmod +x multiprocessing.py 
+ 1910  ./multiprocessing.py 
+ 1911  python 
+ 1912  vim mythread.py
+ 1913  chmod +x mythread.py 
+ 1914  ./mythread.py 
+ 1915  vim mythread.py
+ 1916  ./mythread.py 
+ 1917  vim mythread.py
+ 1918  ./mythread.py 
+ 1919  vim mythread.py
+ 1920  ./mythread.py 
+ 1921  vim mythread.py
+ 1922  vim lock.py
+ 1923  chmod +x lock.py 
+ 1924  ./lock.py 
+ 1925  vim lock.py
+ 1926  ./lock.py 
+ 1927  vim sixunhuan.py
+ 1928  chmod +x sixunhuan.py
+ 1929  ./sixunhuan.py 
+ 1930  chmod +x sixunhuan.py
+ 1931  ./sixunhuan.py 
+ 1932  cd python_dir/
+ 1933  ll
+ 1934  mv ../图片/123.png 
+ 1935  mv ../图片/123.png ./
+ 1936  ll
+ 1937  ll 123.png 
+ 1938  vim searchfile.py 
+ 1939  ./mythread.py 
+ 1940  cd python_dir/
+ 1941  vim threadlocal.py
+ 1942  chmod +x threadlocal.py 
+ 1943  ./threadlocal.py 
+ 1944  vim threadlocal.py
+ 1945  ./threadlocal.py 
+ 1946  gedit taskmanager.py
+ 1947  vim taskmanager.py
+ 1948  ll
+ 1949  cd
+ 1950  ll
+ 1951  cd cpp/
+ 1952  ll
+ 1953  cd ../python_dir/
+ 1954  vim taskworker.py
+ 1955  gedit taskworker.py 
+ 1956  chmod +x *.py
+ 1957  ./taskmanager.py 
+ 1958  vim re.py
+ 1959  chmod +x *.py
+ 1960  ./re.py 
+ 1961  vim re.py
+ 1962  python
+ 1963  vim re.py
+ 1964  ./re.py 
+ 1965  vim re.py
+ 1966  ./re.py 
+ 1967  vim re.py
+ 1968  ./re.py 
+ 1969  vim re.py
+ 1970  ./re.py 
+ 1971  man 2 open
+ 1972  man open
+ 1973  open
+ 1974  man 3 open
+ 1975  man printf
+ 1976  man 3 printf
+ 1977  whereis printf
+ 1978  who is me
+ 1979  who is i
+ 1980  who is printf
+ 1981  locate printf
+ 1982  locate printf | grep printf
+ 1983  locate pthread.h
+ 1984  mkdir parallel_c
+ 1985  cd parallel_c/
+ 1986  vim demo1.c
+ 1987  gcc -o demo1 demo1.c 
+ 1988  man 2 pthread_mutex_init
+ 1989  man 3 pthread_mutex_init
+ 1990  gcc -o demo1 demo1.c 
+ 1991  vim demo1.c
+ 1992  man 3 pthread_mutex_init
+ 1993  man pthread_mutex_init
+ 1994  vim demo1.c
+ 1995  gcc -o demo1 demo1.c 
+ 1996  vim demo1.c
+ 1997  gcc -o demo1 demo1.c 
+ 1998  vim demo1.c
+ 1999  gcc -o demo1 demo1.c 
+ 2000  ll
+ 2001  cd parallel_c/
+ 2002  vim example.c
+ 2003  ll
+ 2004  gedit example.c
+ 2005  gcc -o example example.c 
+ 2006  gedit example.c
+ 2007  gcc -o example example.c 
+ 2008  gedit example.c
+ 2009  gcc -o example example.c 
+ 2010  gedit example.c
+ 2011  gcc -o example example.c 
+ 2012  gcc -version
+ 2013  gcc --version
+ 2014  vim demo1.c 
+ 2015  gcc demo1.c 
+ 2016  gcc demo1.c -lpthread
+ 2017  ./a.out 
+ 2018  vim demo1.c 
+ 2019  gcc -o example example.c -lpthread
+ 2020  ./example 
+ 2021  vim example.c
+ 2022  gcc -o example example.c -lpthread
+ 2023  ./example 
+ 2024  vim example.c
+ 2025  gcc -o example example.c -lpthread
+ 2026  ./example 
+ 2027  vim example.c
+ 2028  gcc -o example example.c -lpthread
+ 2029  ./example 
+ 2030  vim example.c
+ 2031  gcc -o example example.c -lpthread
+ 2032  vim example.c
+ 2033  gcc -o example example.c -lpthread
+ 2034  ./example 
+ 2035  vim example.c
+ 2036  vim printid.c
+ 2037  gcc -o printid printid.c -lpthread
+ 2038  man 2 err_exit
+ 2039  man 3 err_exit
+ 2040  vim printid.c
+ 2041  gcc -o printid printid.c -lpthread
+ 2042  vim printid.c
+ 2043  gcc -o printid printid.c -lpthread
+ 2044  vim printid.c
+ 2045  gcc -o printid printid.c -lpthread
+ 2046  ./printid 
+ 2047  vim demo2.c
+ 2048  gcc demo2.c -o demo2 -lpthread
+ 2049  vim demo2.c
+ 2050  gcc demo2.c -o demo2 -lpthread
+ 2051  ./demo2 
+ 2052  gcc demo2.c -o demo2 -lpthread
+ 2053  ./demo2 
+ 2054  vim demo2.c
+ 2055  gcc demo2.c -o demo2 -lpthread
+ 2056  ./demo2 
+ 2057  vimturiol
+ 2058  vituriol
+ 2059  viminfo
+ 2060  vim --help
+ 2061  vimtutor
+ 2062  cd ../下载/
+ 2063  ll
+ 2064  gzip libcuckoo-master.zip -d
+ 2065  mv libcuckoo-master ~/
+ 2066  cd
+ 2067  cd libcuckoo-master/
+ 2068  ll
+ 2069  g++ --version
+ 2070  autoreconf -fis
+ 2071  sudo apt-get install autoconf
+ 2072  autoreconf -fis
+ 2073  autoreconf --help
+ 2074  cd
+ 2075  mkdir helloworld
+ 2076  cd helloworld/
+ 2077  vim helloworld.c
+ 2078  autoscan
+ 2079  ll
+ 2080  mv configure.scan configure.in
+ 2081  vim configure.in 
+ 2082  aclocal
+ 2083  mv configure.in configure.ac
+ 2084  aclocal
+ 2085  ll
+ 2086  mv configure.ac configure.in
+ 2087  autoconf
+ 2088  ll
+ 2089  vim MakeFile.am
+ 2090  automake
+ 2091  mv configure.in configure.ac
+ 2092  automake
+ 2093  ll
+ 2094  autoconf
+ 2095  automake
+ 2096  cd ../libcuckoo-master/
+ 2097  ll
+ 2098  autoreconf -fis
+ 2099  sudo apt-get install libtool
+ 2100  autoreconf -fis
+ 2101  ll
+ 2102  ./configure 
+ 2103  make
+ 2104  make install
+ 2105  sudo make install
+ 2106  g++ -std=c++11 examples/count_freq.cc -lcityhash
+ 2107  cd tests/
+ 2108  make all
+ 2109  make check
+ 2110  ./test_insert_and_find.out 
+ 2111  ll
+ 2112  ./insert_throughput.out 
+ 2113  lscpu
+ 2114  cat /proc/cpuinfo 
+ 2115  cat /proc/cpuinfo | less
+ 2116  lsmem
+ 2117  lsmeminfo
+ 2118  cat /proc/meminfo 
+ 2119  dmidecode -t memory
+ 2120  sudo dmidecode -t memory
+ 2121  lsblk
+ 2122  lspci | grep -i 'eth'
+ 2123  ifconfig -a
+ 2124  ip link show
+ 2125  ethtool eth0
+ 2126  dmidecode -t bios
+ 2127  sudo dmidecode -t bios
+ 2128  lscpu
+ 2129  ll
+ 2130  ./test_iterator.out 
+ 2131  ./test_bracket_operator.out 
+ 2132  ll
+ 2133  ./read_throughput.out 
+ 2134  git
+ 2135  cd 
+ 2136  mkdir learngit
+ 2137  cd learngit/
+ 2138  pwd
+ 2139  git init
+ 2140  ll
+ 2141  vim readme.txt
+ 2142  git add readme.txt 
+ 2143  git commit -m "wrote a readme file"
+ 2144  git config --global user.email "sayounara@hnu.edu.cn"
+ 2145  git config --global user.name "HeXin"
+ 2146  git commit -m "wrote a readme file"
+ 2147  history | more
+ 2148  history >>record.txt
