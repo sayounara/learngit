@@ -9,3 +9,4 @@ track revise 2
 my stupid
 
 creating a new branch is quick
+creating a  new branch is quick and simple.
