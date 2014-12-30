@@ -7,5 +7,5 @@ track revise
 track revise 2
 
 my stupid
-creating a new branch is quick AND simple.
+creating a new branch is quick and simple.
 add --no-ff merge
