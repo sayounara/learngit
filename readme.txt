@@ -5,3 +5,7 @@ date:2014-12-29
 Monday
 track revise
 track revise 2
+
+my stupid
+
+creating a new branch is quick
