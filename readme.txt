@@ -8,3 +8,4 @@ track revise 2
 
 my stupid
 creating a new branch is quick AND simple.
+add --no-ff merge
